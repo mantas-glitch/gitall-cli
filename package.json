@@ -1,0 +1,15 @@
+{
+  "name": "gitall",
+  "version": "1.0.0",
+  "description": "Run git commands across multiple repositories",
+  "bin": {
+    "gitall": "./bin/gitall.js"
+  },
+  "type": "module",
+  "author": "Gilfoyle",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3"
+  }
+}
