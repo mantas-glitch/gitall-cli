@@ -1,5 +1,5 @@
 {
-  "name": "gitall",
+  "name": "gitall-cli",
   "version": "1.0.0",
   "description": "Run git commands across multiple repositories",
   "bin": {
